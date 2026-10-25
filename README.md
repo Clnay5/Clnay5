@@ -4,6 +4,12 @@
 
 ## 项目
 
+### [LakeWatch｜真实遥感水域观测](https://github.com/Clnay5/lakewatch)
+
+[在线观测台](https://clnay5.github.io/lakewatch/) · [方法与限制](https://github.com/Clnay5/lakewatch/blob/main/docs/method.md) · [自动化测试](https://github.com/Clnay5/lakewatch/actions)
+
+基于真实 Sentinel-2 COG 像元，完成两个武汉湖区窗口的波段对齐、云影掩膜、MNDWI、共同有效范围变化统计、敏感性分析与 GeoJSON 导出。来源、环境及数组哈希可追溯。2021 年历史案例，未宣称独立分类精度；AI 辅助开发。
+
 ### [GIS Engineering Lab｜10 个 GIS 工程项目](https://github.com/Clnay5/gis-engineering-lab)
 
 [在线作品集](https://clnay5.github.io/gis-engineering-lab/) · [69 项测试与 CLI 验证](https://github.com/Clnay5/gis-engineering-lab/actions) · [方法与讲解](https://github.com/Clnay5/gis-engineering-lab/blob/main/INTERVIEW.md)
