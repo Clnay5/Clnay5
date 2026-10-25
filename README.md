@@ -4,6 +4,12 @@
 
 ## 项目
 
+### [GeoScene Engine｜COG 栅格服务](https://github.com/Clnay5/geoscene-engine)
+
+[实测展示](https://clnay5.github.io/geoscene-engine/) · [架构与限制](https://github.com/Clnay5/geoscene-engine/blob/main/ARCHITECTURE.md)
+
+动态瓦片、SQLite 持久化区域统计任务、请求去重、有界 LRU/TTL 与并发合并。使用真实 Sentinel-2 COG 验证，保存每次 HTTP 耗时及缓存状态；提供可操作的本地控制台。单进程工程原型，AI 辅助开发。
+
 ### [LakeWatch｜真实遥感水域观测](https://github.com/Clnay5/lakewatch)
 
 [在线观测台](https://clnay5.github.io/lakewatch/) · [方法与限制](https://github.com/Clnay5/lakewatch/blob/main/docs/method.md) · [自动化测试](https://github.com/Clnay5/lakewatch/actions)
