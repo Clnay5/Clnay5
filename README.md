@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Clnay5
 
-<!--
-**Clnay5/Clnay5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+地理信息科学专业，关注遥感数据处理、WebGIS 与可复现的空间数据工程。
 
-Here are some ideas to get you started:
+## 项目
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [GeoScene Lab](https://github.com/Clnay5/geoscene-lab)
+
+[在线演示](https://clnay5.github.io/geoscene-lab/) · [实现与面试讲解](https://github.com/Clnay5/geoscene-lab/blob/main/docs/interview.md)
+
+遥感影像选型与 STAC 元数据审计工作台：研究区／时间／云量筛选、跨日期变更线处理、可解释评分、GeoJSON 导出。提供 26 项核心测试及可复现的合成元数据性能基准。个人实验项目，AI 辅助开发。
+
+### [遥感图像处理 Demo](https://github.com/Clnay5/-)
+
+基于 C#、Windows Forms 与 GDAL 的课程项目，探索遥感影像加载、预览与处理。
+
+我希望把每个项目的实现、边界和测试写清楚，让结果可以运行、解释与复核。
