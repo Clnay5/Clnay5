@@ -4,6 +4,12 @@
 
 ## 项目
 
+### [CityAccess｜真实道路设施可达性](https://github.com/Clnay5/cityaccess)
+
+[交互地图](https://clnay5.github.io/cityaccess/) · [方法与数据质量](https://github.com/Clnay5/cityaccess/blob/main/METHOD.md)
+
+基于真实 OSM 快照构建 5 万余条有向边的步行网络，实现权限筛选、边内吸附、多源最短路、速度与设施关闭情景。117 个空间采样点、80 组算法数值核对；保留缺失与连通性问题，支持离线复算。模型时间未做实地验证，AI 辅助开发。
+
 ### [GeoScene Engine｜COG 栅格服务](https://github.com/Clnay5/geoscene-engine)
 
 [实测展示](https://clnay5.github.io/geoscene-engine/) · [架构与限制](https://github.com/Clnay5/geoscene-engine/blob/main/ARCHITECTURE.md)
