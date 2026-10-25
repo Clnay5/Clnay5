@@ -4,6 +4,12 @@
 
 ## 项目
 
+### [GIS Engineering Lab｜10 个 GIS 工程项目](https://github.com/Clnay5/gis-engineering-lab)
+
+[在线作品集](https://clnay5.github.io/gis-engineering-lab/) · [69 项测试与 CLI 验证](https://github.com/Clnay5/gis-engineering-lab/actions) · [方法与讲解](https://github.com/Clnay5/gis-engineering-lab/blob/main/INTERVIEW.md)
+
+围绕矢量质检、坐标投影、空间索引、IDW、NDVI、地形导数、最小成本路径、轨迹质检、分区统计与 Geohash 的十个独立算法练习。每项配有可编辑演示、CLI、样例与边界测试，在一个作品集仓库维护。AI 辅助开发，内置数据为合成样例。
+
 ### [GeoScene Lab](https://github.com/Clnay5/geoscene-lab)
 
 [在线演示](https://clnay5.github.io/geoscene-lab/) · [真实 Sentinel-2 案例](https://github.com/Clnay5/geoscene-lab/blob/main/docs/real-case.md)
